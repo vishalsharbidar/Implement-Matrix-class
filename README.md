@@ -2,8 +2,7 @@
 
 Glossary
 Scalar - A scalar is just a number like 1.2, -5, 0, or 239. When we use the word scalar it's usually to highlight that we are not talking about a vector or a matrix.
-$$\begin{bmatrix}1.5 & -9.2 & 0 \\
-5.4 & 7 & 2.2\end{bmatrix}$$
+
 Matrix - A matrix is a rectangular grid of numbers. For example, this is a matrix with 2 rows and 3 columns so we would call it a 2*3 "2 by 3" matrix.:
 
 Row / Column - These terms describe the horizontal (row) and vertical (column) sequences of numbers in a matrix. 
