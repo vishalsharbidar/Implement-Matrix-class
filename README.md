@@ -1,4 +1,5 @@
-# Implement-Matrix-class: In this repository, the functions for Matrix Addition/Subtraction, Matrix Multiplication, Scalar Multiplication are also been developed.
+# Implement-Matrix-class: 
+In this repository, the functions for Matrix Addition/Subtraction, Matrix Multiplication, Scalar Multiplication are also been developed.
 
 Glossary
 Scalar - A scalar is just a number like 1.2, -5, 0, or 239. When we use the word scalar it's usually to highlight that we are not talking about a vector or a matrix.
